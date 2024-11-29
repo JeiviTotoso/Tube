@@ -1,0 +1,54 @@
+body {
+    color: rgb(194, 194, 194);
+    background: rgb(30, 33, 44);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 248, 190);
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(246, 255, 194);
+}
+
+.chamada {
+    background: rgb(44, 46, 61);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.video {
+    margin-right: 4%;
+
+}
+
+.texto {
+    margin-left: 4%;
+
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 15px;
+}
+
+img {
+    height: 210px;
+}
+
+.Alanzoka{
+display: flex;
+overflow-x: auto;
+gap: 13px;
+}
+.recomendacoes{
+    padding-left: 20px;
+    padding-right: 20px;
+}
